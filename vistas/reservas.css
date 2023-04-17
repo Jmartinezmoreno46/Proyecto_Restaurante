@@ -1,0 +1,22 @@
+.modal-header {
+  background-color: #f44336;
+  color: #fff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.modal-footer {
+  background-color: #f2f2f2;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+
+.btn-primary:hover {
+  background-color: #e53935;
+  border-color: #e53935;
+}
